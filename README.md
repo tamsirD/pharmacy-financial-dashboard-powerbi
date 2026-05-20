@@ -152,10 +152,12 @@ Data Analyst | Finance & Business Intelligence
 <img width="1807" height="808" alt="page 1 " src="https://github.com/user-attachments/assets/d1fdebed-479f-4b26-b9fe-31bc370e1c09" />
 
 ## Stock & Product Analysis
-*(Add screenshot here)*
+<img width="940" height="407" alt="Capture d’écran 2026-05-18 003528" src="https://github.com/user-attachments/assets/6c173538-df0f-4371-a06c-4e87cb0c6929" />
+
 
 ## Supplier & Profitability Analysis
-*(Add screenshot here)*
+<img width="957" height="410" alt="Capture d’écran 2026-05-18 003551" src="https://github.com/user-attachments/assets/46c10c9d-bdd7-40a8-ba8b-8c078f4f64a7" />
+
 
 ---
 
