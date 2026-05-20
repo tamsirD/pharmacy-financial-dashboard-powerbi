@@ -149,6 +149,7 @@ Data Analyst | Finance & Business Intelligence
 
 ## Financial Dashboard
 *(Add screenshot here)*
+<img width="1807" height="808" alt="page 1 " src="https://github.com/user-attachments/assets/d1fdebed-479f-4b26-b9fe-31bc370e1c09" />
 
 ## Stock & Product Analysis
 *(Add screenshot here)*
